@@ -21,7 +21,7 @@ I am driven by the intersection of high-performance logic and archival aesthetic
 
 ### 📊 Github Stats
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=buefy&title_color=800020&icon_color=800020&text_color=000000&bg_color=ffffff&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=victoriamak7&show_icons=true&theme=buefy&title_color=800020&icon_color=800020&text_color=000000&bg_color=ffffff&hide_border=true" width="400" />
 </div>
 
 <p align="right">
