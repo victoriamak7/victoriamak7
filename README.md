@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=slim&color=800020&height=120&section=header&text=The%20Vault&fontSize=50&fontColor=ffffff" />
+<div align="center"> VICTORIA MAKSYLEWICZ
 </div>
 I am driven by the intersection of high-performance logic and archival aesthetics. Currently focused on architecting low-latency engines and exploring the mathematical beauty of stochastic systems. 
 
@@ -21,7 +20,7 @@ I am driven by the intersection of high-performance logic and archival aesthetic
 
 ### 📊 Github Stats
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=victoriamak7&show_icons=true&theme=buefy&title_color=800020&icon_color=800020&text_color=000000&bg_color=ffffff&hide_border=true" width="400" />
+  <img src= "https://github-readme-stats.vercel.app/api?username=victoriamak7&show_icons=true&title_color=8B0000&icon_color=8B0000&text_color=000000&bg_color=ffffff&hide_border=true" width="400" />
 </div>
 
 <p align="right">
