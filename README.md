@@ -1,16 +1,28 @@
-## Hi there 👋
+# 🏛️ The Vault
 
-<!--
-**victoriamak7/victoriamak7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Quantitative Developer | Systems Architect | Heritage Collector**
 
-Here are some ideas to get you started:
+Currently architecting high-performance engines and exploring numerical 
+methods at ZUT. Focused on the intersection of low-latency logic 
+and archival aesthetics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚔️ The Arsenal
+`C++` &nbsp; | &nbsp; `Rust` &nbsp; | &nbsp; `Python` &nbsp; | &nbsp; `Numerical Methods` &nbsp; | &nbsp; `Aesthetic Frontend`
+
+### 📍 Current Status
+Building in Szczecin. Expanding to Berlin, Paris, and NYC (Sept 2026).
+
+---
+
+### 📁 Technical Journal
+* **The-Vault-v1**: Volatility modeling and stochastic calculus implementations.
+* **Front-of-House**: Minimalist UI/UX for financial interfaces.
+* **Discrete-Logic**: Combinatorial optimization and graph theory.
+
+<p align="right">
+  <i>"Logic is the architecture; elegance is the result."</i>
+</p>
+
+![Victoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=000000&text_color=555555&icon_color=000000)
