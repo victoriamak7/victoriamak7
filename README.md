@@ -1,6 +1,12 @@
-<div align="center"> VICTORIA MAKSYLEWICZ
+<div align="center">
+
+# V I C T O R I A &nbsp; M A K S Y L E W I C Z
+
+---
+
+I am driven by the intersection of high-performance logic and archival aesthetics. Currently focused on architecting low-latency engines and exploring the mathematical beauty of stochastic systems.
+
 </div>
-I am driven by the intersection of high-performance logic and archival aesthetics. Currently focused on architecting low-latency engines and exploring the mathematical beauty of stochastic systems. 
 
 ---
 
@@ -20,7 +26,7 @@ I am driven by the intersection of high-performance logic and archival aesthetic
 
 ### 📊 Github Stats
 <div align="left">
-  <img src= "https://github-readme-stats.vercel.app/api?username=victoriamak7&show_icons=true&title_color=8B0000&icon_color=8B0000&text_color=000000&bg_color=ffffff&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=victoriamak7&show_icons=true&title_color=8B0000&icon_color=8B0000&text_color=000000&bg_color=ffffff&hide_border=true" width="400" />
 </div>
 
 <p align="right">
