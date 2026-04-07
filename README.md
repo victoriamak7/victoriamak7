@@ -18,16 +18,8 @@ I am driven by the intersection of high-performance logic and archival aesthetic
 ---
 
 ### 🖋️ Current Focus
-* **The Vault v1** — Implementing volatility models and high-speed execution logic.
-* **Front-of-House** — Crafting minimalist, heritage-inspired financial interfaces.
-* **Numerical Models** — Optimizing mathematical computations for efficiency.
-
+* **The Vault** — Final Python project; Implementing volatility models and high-speed execution logic.
 ---
-
-### 📊 Github Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=victoriamak7&show_icons=true&title_color=8B0000&icon_color=8B0000&text_color=000000&bg_color=ffffff&hide_border=true" width="400" />
-</div>
 
 <p align="right">
   <i>"Logic is the architecture; elegance is the result."</i>
