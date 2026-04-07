@@ -9,6 +9,8 @@ I am driven by the intersection of high-performance logic and archival aesthetic
 </div>
 
 ---
+### 🌐Socials
+[![LinkedIn](https://www.linkedin.com/in/victoriamaksylewicz/) 
 
 ### 👩‍💻 Tech Stack
 <p>
@@ -20,6 +22,12 @@ I am driven by the intersection of high-performance logic and archival aesthetic
 ### 🖋️ Current Focus
 * **The Vault** — Final Python project; Implementing volatility models and high-speed execution logic.
 ---
+
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=victoriamak7&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=victoriamak7&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=victoriamak7&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
 
 <p align="right">
   <i>"Logic is the architecture; elegance is the result."</i>
