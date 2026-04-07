@@ -10,7 +10,7 @@ I am driven by the intersection of high-performance logic and archival aesthetic
 
 ---
 ### 🌐Socials
-[![LinkedIn](https://www.linkedin.com/in/victoriamaksylewicz/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoriamaksylewicz/) 
 
 ### 👩‍💻 Tech Stack
 <p>
