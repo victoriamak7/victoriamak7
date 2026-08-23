@@ -7,7 +7,7 @@
 
 ### 👩‍💻 Tech Stack
 <p>
-  <code><b>C++</b></code> &nbsp; <code><b>C</b></code> &nbsp; <code><b>Python</b></code> &nbsp; <code><b>MATLAB</b></code> &nbsp; <code><b>RStudio</b></code> &nbsp; <code><b>CSS</b></code> &nbsp; <code><b>HTML</b></code>
+  <code><b>C++</b></code> &nbsp; <code><b>Python</b></code> &nbsp; <code><b>Rust</b></code> &nbsp;
 </p>
 
 ---
